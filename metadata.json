@@ -1,0 +1,7 @@
+{
+  "name": "Oura Coffee",
+  "description": "Artisanal coffee and dining landing page with GSAP scroll animations, premium typography, and interactive ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
